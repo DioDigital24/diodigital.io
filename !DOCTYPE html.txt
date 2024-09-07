@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landscaping Business Growth Agency</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #004f23;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+        }
+        .section {
+            padding: 50px;
+            text-align: center;
+        }
+        .offerings, .reviews, .philosophy {
+            background-color: white;
+            margin: 20px;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #004f23;
+        }
+        .btn {
+            background-color: #004f23;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+            display: inline-block;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Landscaping Business Growth Agency</h1>
+    <p>Boost your landscaping business with expert Facebook & Instagram Ads</p>
+</header>
+
+<section class="section offerings">
+    <h2>What We Offer</h2>
+    <p>Targeted Facebook and Instagram ads tailored to landscaping businesses to generate leads and boost conversions. We create and manage ad campaigns that ensure maximum return on investment, with only 1 hour of weekly maintenance per client.</p>
+    <p>Our pricing is competitive and proven to deliver results without risking your business growth.</p>
+</section>
+
+<section class="section reviews">
+    <h2>Client Reviews</h2>
+    <p>“Our landscaping business has never been busier since we started working with this agency. Their ad strategies are top-notch!” – John D.</p>
+    <p>“I was skeptical at first, but their results speak for themselves. More clients, more jobs, more money!” – Sarah L.</p>
+    <p>“This agency helped me transform my small landscaping company into a thriving business.” – Mike K.</p>
+</section>
+
+<section class="section philosophy">
+    <h2>Our Philosophy</h2>
+    <p>We believe in creating genuine value for landscaping businesses. By focusing on targeted marketing strategies and transparent communication, we ensure long-term success and business growth for all our clients.</p>
+</section>
+
+<section class="section">
+    <h2>Book Your Free Business Growth Call</h2>
+    <a href="YOUR-CALENDLY-LINK" class="btn">Schedule a Call Now</a>
+</section>
+
+<footer>
+    <p>&copy; 2024 Landscaping Business Growth Agency. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
